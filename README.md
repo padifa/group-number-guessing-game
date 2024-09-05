@@ -1,7 +1,6 @@
-# Team Random Number Guess
+   # Team Random Number Guess
 
-In this challenge, you will be creating a number guessing game! You'll have plenty of time to work on this as a group. Start by spending 5 minutes reading through the requirements individually. After reading through the requirements, come together as a group and talk about what you would like to get out of the project.
-
+In this challenge, you will be creating a number guessing game! You'll have plenty of time to work on this as a group. Start by spending 5 minutes reading through the requirements individually. After reading through the requiremen 
 ![intro](quads_week1_updated.png)
 
 ### Tech: Node, Express, and JavaScript

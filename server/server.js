@@ -35,6 +35,7 @@ app.get('/guess/answer', (req, res) => {
     player2: 'guess',
     player3: 'guess'
   }
+  
   if(guessObj.player1 > random){
     guesses2.player1 = 'high';
   } else if 
